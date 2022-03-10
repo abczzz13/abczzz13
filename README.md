@@ -1,7 +1,7 @@
 # Welcome! 👋
 Hey, I'm Thomas and I am a self-taught junior python developer. Here, you can find the projects I've been working on.
 
-🌱 Currently, I have been mainly focussing my efforts on Python and the related frameworks Django and Flask. While getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. However, I'm also open to learning new languages and techniques.
+🌱 Currently, I have been mainly focussing my efforts on Python and the related frameworks Django and Flask. While also getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. However, I'm also open to learning new languages and techniques.
 
 
 <!--
