@@ -1,6 +1,12 @@
-### Hi there 👋
+# Welcome! 👋
+Hey, I'm Thomas and I am a self-taught junior python developer. Here, you can find the projects I've been working on.
+
+🌱 Currently, I have been focussing my efforts mainly on Python and the related frameworks Django and Flask. While getting acquintated with professional workflows such as CI/CD, automated tests, version control and collaboration. However, I'm also open to learning new languages and techniques.
+
 
 <!--
+### Hi there 👋
+
 **abczzz13/abczzz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
