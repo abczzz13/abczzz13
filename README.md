@@ -1,7 +1,7 @@
 # Welcome! 👋
 Hey, I'm Thomas and I am a self-taught junior python developer. Here, you can find the projects I've been working on.
 
-🌱 Currently, I have been mainly focusing my efforts on Python and the related frameworks Django and Flask. While also getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. However, I'm also open to learning new languages and techniques.
+🌱 Currently, I have been mainly focusing my efforts on Python and the related frameworks Django and Flask. While also getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. But, I'm always open to learning new languages, skills and techniques.
 
 Below you can find my work on the FNDR app, where I created the backend in Flask. If you would like to know more, feel free to explore this project by clicking on it.
 
