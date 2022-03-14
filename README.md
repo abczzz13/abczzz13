@@ -5,7 +5,7 @@ Hey, I'm Thomas and I am a self-taught junior python developer. Here, you can fi
 
 Below you can find my work on the FNDR app, where I created the backend in Flask. If you would like to know more, feel free to explore this project by clicking on it.
 
-My next project is going to make use of the Django framework, where I will be exploring the use of MongoDB, Celery, RabbitMQ, Docker and webhook. More on this project soon!
+My next project is going to make use of the Django framework, where I will be exploring the use of MongoDB, Celery, RabbitMQ, Docker and webhooks. More on this project soon!
 
 <!--
 ### Hi there 👋
