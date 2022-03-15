@@ -1,11 +1,11 @@
 # Welcome! 👋
-Hey, I'm Thomas and I am a self-taught junior python developer. Here, you can find the projects I've been working on.
+Hey, I'm Thomas and I am a self-taught junior python developer 🌱. Here, you can find the projects I've been working on.
 
-🌱 Currently, I have been mainly focusing my efforts on Python and the related frameworks Django and Flask. While also getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. But, I'm always open to learning new languages, skills and techniques.
+🔭 I have started my journey with CS50 and I'm currently focusing my efforts on Python and the related frameworks Django and Flask. While also getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. But, I'm always open to learning new languages, skills and techniques.
 
-Below you can find my work on the FNDR app, where I created the backend in Flask. If you would like to know more, feel free to explore this project by clicking on it.
+Below you can find my work on the [FNDR app](https://github.com/abczzz13/fndr_backend), where I created the backend in Flask. If you would like to know more, feel free to explore this project.
 
-My next project is going to make use of the Django framework, where I will be exploring the use of MongoDB, Celery, RabbitMQ, Docker and webhooks. More on this project soon!
+My ✨ next project ✨ is going to make use of the Django framework, where I will be exploring the use of MongoDB, Celery, RabbitMQ, Docker and webhooks. More on this project soon!
 
 <!--
 ### Hi there 👋
