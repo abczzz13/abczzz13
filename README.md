@@ -1,25 +1,8 @@
 # Welcome! 👋
-Hey, I'm Thomas and I am a self-taught junior python developer 🌱. Here, you can find the projects I've been working on.
+Hey, I'm Thomas! I’m currently working as a Python/Django Backend developer, with a strong focus on infrastructure activities, such as Kubernetes. In my free time, I’m focussing on getting more involved in open-source software development and learning Rust.
 
-🌱 I have started my journey with CS50x and I'm currently focusing my efforts on Python and the related frameworks Django and Flask. While also getting acquainted with professional workflows such as CI/CD, automated tests, version control and collaboration. But, I'm always open to learning new languages, skills and techniques.
-
-Below you can find my work on the [FNDR app](https://github.com/abczzz13/fndr_backend), where I created the backend in Flask. If you would like to know more, feel free to explore this project.
-
-My ✨ next project ✨ is going to make use of the Django framework, where I will be exploring the use of Celery, RabbitMQ, Docker and webhooks. More on this project soon!
+# Skills & Tools 🌱
+Backend Developer // Python // Django // Kubernetes // Helm // Rancher // Microservices // Docker // Kibana // Sentry // PostgresSQL // NGINX // GIT // Gitlab CI/CD Pipelines // Redis // Linux // Neovim // Rust
 
 <!--
-### Hi there 👋
-
-**abczzz13/abczzz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
