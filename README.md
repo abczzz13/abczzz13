@@ -1,8 +1,25 @@
-# Welcome! 👋
-Hey, I'm Thomas! I’m currently working as a Python/Django Backend developer, with a focus on infrastructure activities, such as Kubernetes. In my free time, I’m focussing on getting more involved in open-source software development and learning Rust.
+# Hi, I’m Thomas
 
-# Skills & Tools 🌱
-Backend Developer // Python // Django // Kubernetes // Helm // Rancher // Microservices // Docker // Kibana // Sentry // PostgresSQL // NGINX // GIT // Gitlab CI/CD Pipelines // Redis // Linux // Neovim // Rust
+I’m a Backend Engineer with 3.5+ years of experience building APIs, microservices, and cloud infrastructure in AWS environments.
 
-<!--
--->
+I’ve worked on projects ranging from security-critical public-sector platforms to high-traffic telecom systems, focusing on reliability, scalability, and clean backend architecture.
+
+---
+
+## Tech and Tools
+
+- **Backend Development:** Microservices, REST APIs
+- **Languages:** Go, Python
+- **Databases and Caching:** PostgreSQL, SQL, Redis
+- **Cloud and Infrastructure:** AWS, Terraform, Linux
+- **Containers and Deployment:** Docker, Kubernetes, CI/CD
+- **Operations and Observability:** Monitoring, Logging, Alerting
+
+---
+
+## What I’m working on
+
+- Developing Golang microservices in a telecom environment
+- Supporting frontend teams with backend features focused on customer experience and security
+- Exploring cloud-native infrastructure and Kubernetes operations through personal projects
+- Experimenting with AI-assisted development workflows
