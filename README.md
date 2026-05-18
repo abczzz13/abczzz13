@@ -7,8 +7,8 @@ I work on backend services that need to be maintainable, observable, and reliabl
 experience spans telecom, government, and fintech environments, with systems running on AWS, Kubernetes,
 Terraform, PostgreSQL, and CI/CD pipelines.
 
-I like building services with clear API boundaries, useful monitoring, good tests, and simple operational
-models.
+I’m interested in backend systems that stay maintainable as they grow: clear interfaces, predictable
+behaviour, and enough observability to understand them in production.
 
 ---
 
